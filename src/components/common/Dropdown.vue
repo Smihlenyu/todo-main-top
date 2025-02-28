@@ -70,6 +70,7 @@ export default {
         { id: 2, name: "Complete" },
         { id: 3, name: "Incomplete" },
         { id: 4, name: "Delete" },
+        { id: 5, name: "Delete" },
       ],
     };
   },
