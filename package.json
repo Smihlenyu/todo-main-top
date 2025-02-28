@@ -21,7 +21,7 @@
     "sass": "^1.85.0",
     "sass-loader": "^16.0.5"
   },
-  "homepage": "https://smihlenyu.github.io/my-project",
+  "homepage": "https://smihlenyu.github.io/todo-main-top",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
